@@ -269,20 +269,20 @@ if theme_mode == "Dark Mode":
         """,
         unsafe_allow_html=True
     )
-elif theme_mode == "Light Mode":
+elif theme_mode == "black Mode":
     st.markdown(
         """
         <style>
         body {
-            background-color: white;
-            color: black;
+            background-color: black;
+            color: white;
         }
         .stButton>button {
             background-color: #f0f0f0;
             color: black;
         }
         .stTextInput>div>div>input {
-            background-color: white;
+            background-color: black;
             color: black;
         }
         .stSelectbox>div>div>div>div {
