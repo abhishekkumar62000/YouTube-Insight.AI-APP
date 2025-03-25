@@ -1,0 +1,11 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+textblob
+wordcloud
+matplotlib
+fpdf
+gtts
+deep-translator
+langdetect
